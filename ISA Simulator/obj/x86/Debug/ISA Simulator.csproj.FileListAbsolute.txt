@@ -1,0 +1,25 @@
+C:\Users\Uzair\AppData\Local\Temporary Projects\ISA Simulator\bin\Debug\ISA Simulator.exe
+C:\Users\Uzair\AppData\Local\Temporary Projects\ISA Simulator\bin\Debug\ISA Simulator.pdb
+C:\Users\Uzair\AppData\Local\Temporary Projects\ISA Simulator\obj\x86\Debug\ISA_Simulator.Form1.resources
+C:\Users\Uzair\AppData\Local\Temporary Projects\ISA Simulator\obj\x86\Debug\ISA_Simulator.Properties.Resources.resources
+C:\Users\Uzair\AppData\Local\Temporary Projects\ISA Simulator\obj\x86\Debug\ISA Simulator.csproj.GenerateResource.Cache
+C:\Users\Uzair\AppData\Local\Temporary Projects\ISA Simulator\obj\x86\Debug\ISA Simulator.exe
+C:\Users\Uzair\AppData\Local\Temporary Projects\ISA Simulator\obj\x86\Debug\ISA Simulator.pdb
+C:\Users\Uzair\documents\visual studio 2010\Projects\ISA Simulator\ISA Simulator\obj\x86\Debug\ISA Simulator.exe
+C:\Users\Uzair\documents\visual studio 2010\Projects\ISA Simulator\ISA Simulator\obj\x86\Debug\ISA Simulator.pdb
+C:\Users\Uzair\documents\visual studio 2010\Projects\ISA Simulator\ISA Simulator\bin\Debug\ISA Simulator.exe
+C:\Users\Uzair\documents\visual studio 2010\Projects\ISA Simulator\ISA Simulator\bin\Debug\ISA Simulator.pdb
+C:\Users\Uzair\documents\visual studio 2010\Projects\ISA Simulator\ISA Simulator\obj\x86\Debug\ISA_Simulator.Form1.resources
+C:\Users\Uzair\documents\visual studio 2010\Projects\ISA Simulator\ISA Simulator\obj\x86\Debug\ISA_Simulator.Properties.Resources.resources
+C:\Users\Uzair\documents\visual studio 2010\Projects\ISA Simulator\ISA Simulator\obj\x86\Debug\ISA Simulator.csproj.GenerateResource.Cache
+C:\Users\Uzair\documents\visual studio 2010\Projects\ISA Simulator\ISA Simulator\obj\x86\Debug\ISA Simulator.csprojResolveAssemblyReference.cache
+G:\sem1,2,3,4,5,6,7,8\COAL\COAL assignment solutions\ISA Simulator\ISA Simulator\obj\x86\Debug\ISA Simulator.exe
+G:\sem1,2,3,4,5,6,7,8\COAL\COAL assignment solutions\ISA Simulator\ISA Simulator\obj\x86\Debug\ISA Simulator.pdb
+G:\sem1,2,3,4,5,6,7,8\COAL\COAL assignment solutions\ISA Simulator\ISA Simulator\bin\Debug\ISA Simulator.exe
+G:\sem1,2,3,4,5,6,7,8\COAL\COAL assignment solutions\ISA Simulator\ISA Simulator\bin\Debug\ISA Simulator.pdb
+G:\sem1,2,3,4,5,6,7,8\COAL\COAL assignment solutions\ISA Simulator\ISA Simulator\obj\x86\Debug\ISA Simulator.csprojResolveAssemblyReference.cache
+G:\sem1,2,3,4,5,6,7,8\COAL\COAL assignment solutions\ISA Simulator\ISA Simulator\obj\x86\Debug\ISA_Simulator.Form1.resources
+G:\sem1,2,3,4,5,6,7,8\COAL\COAL assignment solutions\ISA Simulator\ISA Simulator\obj\x86\Debug\ISA_Simulator.Properties.Resources.resources
+G:\sem1,2,3,4,5,6,7,8\COAL\COAL assignment solutions\ISA Simulator\ISA Simulator\obj\x86\Debug\ISA Simulator.csproj.GenerateResource.Cache
+D:\Personal Projects\Coal\ISA Simulator\ISA Simulator\obj\x86\Debug\ISA Simulator.exe
+D:\Personal Projects\Coal\ISA Simulator\ISA Simulator\obj\x86\Debug\ISA Simulator.pdb
